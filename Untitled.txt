@@ -1,0 +1,4 @@
+
+API Key - AIzaSyCit9uzNQ1sNzJirQhdXjWZQGObs6cfB8Y
+
+URL - https://eco-bin-36651-default-rtdb.asia-southeast1.firebasedatabase.app/
