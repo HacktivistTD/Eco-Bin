@@ -4,7 +4,7 @@ unsigned long duration; // Changed to unsigned long to handle larger values
 int distance;
 
 void setup() {
-  Serial.begin(9600);
+  Serial.begin(115200);
   pinMode(trigPin, OUTPUT);
   pinMode(echoPin, INPUT);
 }
